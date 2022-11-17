@@ -11,3 +11,6 @@ use [QuanLyGiaoTrinh]
 ```
 
 + Change DB connection string in connection.cs
+![](C:\Users\huynda\Pictures\Saved Pictures\1.png)
+![](C:\Users\huynda\Pictures\Saved Pictures\2.png)
+![](C:\Users\huynda\Pictures\Saved Pictures\3.png)
